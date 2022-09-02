@@ -1,0 +1,1 @@
+'--nosave', action='store_true', help='do not save images/videos'
